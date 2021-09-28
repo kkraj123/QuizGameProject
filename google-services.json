@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336983129857",
+    "project_id": "quizegame-e9f93",
+    "storage_bucket": "quizegame-e9f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336983129857:android:e0a8fa860305f717dc6500",
+        "android_client_info": {
+          "package_name": "com.example.iqlevelgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336983129857-e1ol4j2tf2q3peossl4vnva6m5mt81l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCasw9BlZObxTHfql4_0pYtvfrS380lNQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336983129857-e1ol4j2tf2q3peossl4vnva6m5mt81l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

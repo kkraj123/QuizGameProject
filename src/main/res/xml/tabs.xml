@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+
+        drawable="@drawable/home"
+        text="@string/home" />
+
+    <tab
+        drawable="@drawable/trophy"
+        text="@string/rank" />
+
+    <tab
+        drawable="@drawable/wallet"
+        text="@string/wallet" />
+
+    <tab
+        drawable="@drawable/user"
+        text="@string/profile" />
+
+</tabs>
